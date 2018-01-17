@@ -1,0 +1,6 @@
+1. Add new file to repository, name: Fish.txt
+2. Fill file with _fish text_ 
+3. Commit this to branch
+4. Commit this changes to branch
+5. Create pull request
+6. Merge changes to master
