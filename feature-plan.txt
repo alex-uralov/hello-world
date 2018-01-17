@@ -5,4 +5,5 @@
 5. Commit this changes to branch
 6. Create pull request
 7. Merge changes to master
-
+8. Create new branch, name translation_en
+9. Add new file to repository, name: Translation_en.txt
