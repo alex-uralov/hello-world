@@ -7,3 +7,5 @@
 7. Merge changes to master
 8. Create new branch, name translation_en
 9. Add new file to repository, name: Translation_en.txt
+10. Create new branch, translation_ru
+11. Add new file to repository, name
